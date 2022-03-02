@@ -1,0 +1,135 @@
+@charset "utf-8";
+@import url("Legato.html.css");
+body {
+	background-color: black;
+
+}
+
+.BoredApe{
+ 	position:fixed;
+	width: 15%;
+	Height: %;
+	Margin-top:5%;
+	margin-left: 5%;
+	box-shadow:-30px 30px 20px;
+}
+
+.cryptopunk{
+	position: fixed;
+	width: 15%;
+	left: 28%;
+	Margin-top: 5%;
+	box-shadow:-30px 30px 20px;
+}
+
+.logo{
+	position: fixed;
+	width: 15%;
+	hieght:20%;
+	left: 25%;
+	top:61%;
+	box-shadow:-30px 30px 20px;
+}
+
+.samurai{
+	position:absolute;
+	width: 15.01%;
+	Left: 50.5%;
+	margin-top:5%;
+	box-shadow:-30px 30px 20px;
+}
+
+.flyfish{
+	position:absolute;
+	width:20%;
+	height: 30.8%;
+	Left: 72%;
+	margin-top: 5%;
+	box-shadow:-30px 30px 20px;
+	
+}
+
+.div1{
+	position: fixed;
+	margin-top:20%;
+	left:4.3% ;
+	background:;
+	color: aliceblue;
+	font-size: 25px;
+	
+	
+}
+.div1 a:hover{
+	background: black;
+	
+}
+.div1 a:active{
+	background: green;
+}
+.div2{
+	position:fixed;
+	margin-top:20%;
+	Left:31.5%;
+	Font-size: 25px;
+	Background:;
+}
+
+.div2 a:hover{
+	background:black;
+}
+
+.div2 a:active {
+	background: green;
+}
+
+.div3{
+	position: fixed;
+	margin-top:20%;
+	left:53.5%;
+	background:;
+	font-size:25px;
+}
+.div3 a:hover{
+	background: black;
+}
+.div3 a:active{
+	background: green;
+}
+.div4{
+	position: fixed;
+	margin-top:20%;
+	left: 79%;
+	Background:;
+	font-size: 25px;
+}
+.div4 a:hover{
+	background: black;
+}
+.div4 a:active{
+	background: green;
+}
+.Main{
+	context:;
+	position: fixed;
+	Font-size: 55px;
+	margin-top:29%;
+	color: white 100%;
+	left: 43%;	
+}
+.Main a:hover{
+	background:black;
+}
+.Main a:active{
+	background: red;
+}
+
+.start{
+	position: fixed;
+	background-image: url("Art.jpg");
+	padding: 500px 1000px;
+}
+
+</body>
+</html>)	
+.div3 {
+}
